@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Andrii Ryzhkov"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Andrii Ryzhkov"
+description              : "Andrii Ryzhkov - Personal CV/Portfolio Website"
+url                      : "https://andriiryzhkov.com"
+baseurl                  : "/"
+repository               : "andriiryzhkov/andriiryzhkov.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "master" # "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -57,16 +57,20 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "andrii.ryzhkov"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person"
+  name                   : "Andrii Ryzhkov"
   links: # An array of links to social media profiles
+  - "https://www.facebook.com/andrii.ryzhkov"
+  - "https://github.com/andriiryzhkov"
+  - "https://ua.linkedin.com/in/andriiryzhkov"
+  - "https://www.xing.com/profile/Andrii_Ryzhkov"
 
 # Analytics
 analytics:
@@ -77,24 +81,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Andrii Ryzhkov"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Melitopol, UA"
   email            :
-  uri              :
+  uri              : "andriiryzhkov.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "andrii.ryzhkov"
   foursquare       :
-  github           :
+  github           : "andriiryzhkov"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "andryzhkov"
   lastfm           :
-  linkedin         :
+  linkedin         : "andriiryzhkov"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -103,7 +107,7 @@ author:
   twitter          :
   vine             :
   weibo            :
-  xing             :
+  xing             : "Andrii_Ryzhkov"
   youtube          :
 
 
