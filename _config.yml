@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Andrii Ryzhkov"
 description              : "Andrii Ryzhkov - Personal CV/Portfolio Website"
 url                      : "https://andriiryzhkov.com"
-baseurl                  : 
+baseurl                  :
 repository               : "andriiryzhkov/andriiryzhkov.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -83,10 +83,10 @@ analytics:
 author:
   name             : "Andrii Ryzhkov"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Data Scientist"
   location         : "Melitopol, UA"
   email            :
-  uri              : "andriiryzhkov.com"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,7 +101,7 @@ author:
   linkedin         : "andriiryzhkov"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "5222378/a-ryzhkov"
   steam            :
   tumblr           :
   twitter          :
