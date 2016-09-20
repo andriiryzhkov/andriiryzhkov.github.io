@@ -5,7 +5,7 @@
 /*
    Typography
    ========================================================================== */
-@import 'https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Scada:400,400i,700,700i&subset=cyrillic';
+@import 'https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Roboto:400,400i,700,700i&subset=cyrillic';
 
 $doc-font-size              : 16;
 
@@ -15,12 +15,12 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : "Lora", Georgia, Times, serif;
-$sans-serif                 : "Scada", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Roboto", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$scada                      : Scada, sans-serif;
+$roboto                      : Roboto, sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
