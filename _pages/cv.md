@@ -1,8 +1,14 @@
 ---
 permalink: /cv/
 title: "Curriculum vitæ"
+excerpt: "Andrii Ryzhkov Curriculum vitæ."
 modified: 2016-09-16T11:00:00-00:00
 ---
+
+{% include base_path %}
+
+[Download CV in PDF]({{ site.url }}/cv-ryzhkov.pdf){: .btn .btn--success .btn--large}
+[LinkedIn Profile](https://linkedin.com/in/andriiryzhkov){: .btn .btn--success .btn--large}
 
 ## Expertise
 
