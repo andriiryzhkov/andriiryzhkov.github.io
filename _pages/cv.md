@@ -4,17 +4,17 @@ title: "CV"
 modified: 2016-09-16T11:00:00-00:00
 ---
 
-# EXPERTISE
+## EXPERTISE
 
-## Technical Expertise
+### Technical Expertise
 
 Feature Engineering, Multivariate Regression, Decision Trees, Random Forests, Support Vector Machines, Ensemble Models, Boosting, Bagging, Bootstrapping, Clustering Algorithms, Map Reduce.  
 
-## Managerial Expertise
+### Managerial Expertise
 
 Communicate and work with clients and team members on analytics problem definition, models, performance metrics and implementation. Lead development teams.
 
-## Software Engineering  
+### Software Engineering  
 
 **Core**: Python, R, Java, C/C++  
 **Distributed**: Hadoop, Spark  
@@ -23,9 +23,9 @@ Communicate and work with clients and team members on analytics problem definiti
 **Server**: AWS (EC2, S3, RDS, Route 53), OpenShift, Apache HTTP  
 **Database**: SQL (MySQL), NoSQL (MongoDB)
 
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 
-## Associate Professor, Head of the Office of International Relations JUL 2013 – PRESENT  
+### Associate Professor, Head of the Office of International Relations JUL 2013 – PRESENT  
 
 *Tavria State Agrotechnological University – Melitopol, Ukraine*
 
@@ -34,74 +34,74 @@ Communicate and work with clients and team members on analytics problem definiti
 *	Developed data analysis scripts for monitoring teachers’ and students’ activities on university’s eLearning platform (Moodle based).
 *	Taught courses: Web Programming; Databases; Energy Audit and Energy Saving.
 
-## Fulbright Visiting Scholar OCT 2012 – JUN 2013
+### Fulbright Visiting Scholar OCT 2012 – JUN 2013
 
 *University of Colorado at Boulder – Boulder, Colorado, USA*
 
 *	Research on biological effects of low-intensity electromagnetic fields.
 
-## Associate Professor FEB 2011 – SEP 2012
+### Associate Professor FEB 2011 – SEP 2012
 
 *Tavria State Agrotechnological University – Melitopol, Ukraine*
 
 *	Research in the field of biological effects of low-intensity electromagnetic fields.
 *	Taught courses: Electrical Engineering, Electronics and Microprocessor Systems; Theory of Electrical Engineering; Instrumentations and Metrology. 	 
 
-## Assistant Professor SEP 2006 – FEB 2011
+### Assistant Professor SEP 2006 – FEB 2011
 
 *Tavria State Agrotechnological University – Melitopol, Ukraine*
 
 *	Research on monitoring and diagnostics of electric motors.
 *	Taught courses: Electrical Engineering, Electronics and Microprocessor Systems; Electronics and Microcircuitry; Instrumentations and Metrology.
 
-## Lecture (part-time) JUL 2003 – NOV 2008
+### Lecture (part-time) JUL 2003 – NOV 2008
 
 Tavria College of Computer Technologies – Melitopol, Ukraine
 
 *	Taught courses: Software Engineering; Design of Automated Information Systems; Computers and Microprocessor Systems.
 
-# ADMINISTRATIVE EXPERIENCE
+## ADMINISTRATIVE EXPERIENCE
 
-## Head of the Office of International Relations 2013 – 2016
-
-Tavria State Agrotechnological University – Melitopol, Ukraine
-
-## Head of the e-Learning Centre 	2011 – 2012
+### Head of the Office of International Relations 2013 – 2016
 
 Tavria State Agrotechnological University – Melitopol, Ukraine
 
-## Deputy Executive Secretary of the Admission Commission 	2010 – 2012
+### Head of the e-Learning Centre 	2011 – 2012
 
 Tavria State Agrotechnological University – Melitopol, Ukraine
 
-## Deputy Head of the Institute of Correspondence and Distance Education	2008 – 2011
+### Deputy Executive Secretary of the Admission Commission 	2010 – 2012
 
 Tavria State Agrotechnological University – Melitopol, Ukraine
 
-# EDUCATION
-
-## Candidate of Sciences (Ph.D.) in Electrical Engineering JUL 2008
+### Deputy Head of the Institute of Correspondence and Distance Education	2008 – 2011
 
 Tavria State Agrotechnological University – Melitopol, Ukraine
 
-## Master of Sciences in Agricultural Energy Engineering (with honors) JUN 2003
+## EDUCATION
+
+### Candidate of Sciences (Ph.D.) in Electrical Engineering JUL 2008
+
+Tavria State Agrotechnological University – Melitopol, Ukraine
+
+### Master of Sciences in Agricultural Energy Engineering (with honors) JUN 2003
 
 Tavria State Agrotechnical Academy – Melitopol, Ukraine
 
-## Bachelor of Sciences in Agricultural Energy Engineering (with honors) JUN 2001
+### Bachelor of Sciences in Agricultural Energy Engineering (with honors) JUN 2001
 
 Tavria State Agrotechnical Academy – Melitopol, Ukraine
 
-# ACADEMIC AWARDS
+## ACADEMIC AWARDS
 
 * 2012 Fulbright Scholar Award
 * 2012 Acknowledgement of the Minister of Agrarian Policy and Food of Ukraine
 
-# CERTIFICATIONS
+## CERTIFICATIONS
 
-## IELTS (International English Language Testing System) Academic – Band Score 6.5	MAY 2015
+### IELTS (International English Language Testing System) Academic – Band Score 6.5	MAY 2015
 
-## Coursera Course Certificates
+### Coursera Course Certificates
 *	Data Science Specialization, TMQDZAB3V3ME	JULY 2016
   -	The Data Scientist’s Toolbox, U47DVZAM9WXN	FEB 2016
   -	R Programming, VEEULVSK6XMA	FEB 2016
@@ -117,7 +117,7 @@ Tavria State Agrotechnical Academy – Melitopol, Ukraine
   -	Machine Learning Foundations: A Case Study Approach, 7EG2323Y4QKK	MAR 2016
   -	Machine Learning: Regression, LQJU8M8RXLCR	APR 2016
 
-# ACADEMIC PUBLICATIONS
+## ACADEMIC PUBLICATIONS
 1.	Nesterchuk D.M., Ryzhkov A.O. (2015). "Algorithmization to Run the System of Diagnostics and Protection of Low-Voltage Induction Motors with Squirrel-Cage Rotor", Transactions of Tavria Sate Agrotechnological University 15 (2): 274-280 (In Ukrainian)
 2.	Ryzhkov A. (2015) "Active optical sensor to determine the nitrogen status of crops", Materials of Science Conference "Energy Supply in Agriculture of Ukraine", 41-42 (In Ukrainian)
 3.	Ryzhkov A.O. (2014) “UAV-collected NDVI Imagery for Crops Monitoring", Transactions of Tavria Sate Agrotechnological University 14 (3): 57-61 (In Ukrainian)
