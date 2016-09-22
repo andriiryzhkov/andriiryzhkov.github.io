@@ -1,7 +1,7 @@
 ---
+permalink: /
 title: "Home Page"
 layout: splash
-permalink: /
 date: 2016-09-16T09:00:00-00:00
 header:
   overlay_color: "#000"
