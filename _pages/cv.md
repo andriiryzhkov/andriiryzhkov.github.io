@@ -1,10 +1,10 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Curriculum vitæ"
 modified: 2016-09-16T11:00:00-00:00
 ---
 
-## EXPERTISE
+## Expertise
 
 ### Technical Expertise
 
@@ -23,7 +23,7 @@ Communicate and work with clients and team members on analytics problem definiti
 **Server**: AWS (EC2, S3, RDS, Route 53), OpenShift, Apache HTTP  
 **Database**: SQL (MySQL), NoSQL (MongoDB)
 
-## WORK EXPERIENCE
+## Work Experience
 
 ### Associate Professor, Head of the Office of International Relations JUL 2013 – PRESENT  
 
@@ -60,7 +60,7 @@ Tavria College of Computer Technologies – Melitopol, Ukraine
 
 *	Taught courses: Software Engineering; Design of Automated Information Systems; Computers and Microprocessor Systems.
 
-## ADMINISTRATIVE EXPERIENCE
+## Administrative Experience
 
 ### Head of the Office of International Relations 2013 – 2016
 
@@ -78,7 +78,7 @@ Tavria State Agrotechnological University – Melitopol, Ukraine
 
 Tavria State Agrotechnological University – Melitopol, Ukraine
 
-## EDUCATION
+## Education
 
 ### Candidate of Sciences (Ph.D.) in Electrical Engineering JUL 2008
 
@@ -92,12 +92,12 @@ Tavria State Agrotechnical Academy – Melitopol, Ukraine
 
 Tavria State Agrotechnical Academy – Melitopol, Ukraine
 
-## ACADEMIC AWARDS
+## Academic Awards
 
 * 2012 Fulbright Scholar Award
 * 2012 Acknowledgement of the Minister of Agrarian Policy and Food of Ukraine
 
-## CERTIFICATIONS
+## Certifications
 
 ### IELTS (International English Language Testing System) Academic – Band Score 6.5	MAY 2015
 
@@ -117,7 +117,8 @@ Tavria State Agrotechnical Academy – Melitopol, Ukraine
   -	Machine Learning Foundations: A Case Study Approach, 7EG2323Y4QKK	MAR 2016
   -	Machine Learning: Regression, LQJU8M8RXLCR	APR 2016
 
-## ACADEMIC PUBLICATIONS
+## Publications
+
 1.	Nesterchuk D.M., Ryzhkov A.O. (2015). "Algorithmization to Run the System of Diagnostics and Protection of Low-Voltage Induction Motors with Squirrel-Cage Rotor", Transactions of Tavria Sate Agrotechnological University 15 (2): 274-280 (In Ukrainian)
 2.	Ryzhkov A. (2015) "Active optical sensor to determine the nitrogen status of crops", Materials of Science Conference "Energy Supply in Agriculture of Ukraine", 41-42 (In Ukrainian)
 3.	Ryzhkov A.O. (2014) “UAV-collected NDVI Imagery for Crops Monitoring", Transactions of Tavria Sate Agrotechnological University 14 (3): 57-61 (In Ukrainian)
