@@ -33,7 +33,7 @@ Communicate and work with clients and team members on analytics problem definiti
 
 ### Associate Professor, Head of the Office of International Relations JUL 2013 – PRESENT  
 
-*Tavria State Agrotechnological University – Melitopol, Ukraine*
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 *	Research on collection and analysis of agricultural data in crop production.  
 *	Developed and administrated university's web system. Increased ranking on Webometrics from 252rd to 74th place in the country.
@@ -42,20 +42,20 @@ Communicate and work with clients and team members on analytics problem definiti
 
 ### Fulbright Visiting Scholar OCT 2012 – JUN 2013
 
-*University of Colorado at Boulder – Boulder, Colorado, USA*
+*[University of Colorado at Boulder](http://www.colorado.edu/){:target="_blank"} – Boulder, Colorado, USA*
 
 *	Research on biological effects of low-intensity electromagnetic fields.
 
 ### Associate Professor FEB 2011 – SEP 2012
 
-*Tavria State Agrotechnological University – Melitopol, Ukraine*
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 *	Research in the field of biological effects of low-intensity electromagnetic fields.
 *	Taught courses: Electrical Engineering, Electronics and Microprocessor Systems; Theory of Electrical Engineering; Instrumentations and Metrology. 	 
 
 ### Assistant Professor SEP 2006 – FEB 2011
 
-*Tavria State Agrotechnological University – Melitopol, Ukraine*
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 *	Research on monitoring and diagnostics of electric motors.
 *	Taught courses: Electrical Engineering, Electronics and Microprocessor Systems; Electronics and Microcircuitry; Instrumentations and Metrology.
@@ -70,33 +70,33 @@ Tavria College of Computer Technologies – Melitopol, Ukraine
 
 ### Head of the Office of International Relations 2013 – 2016
 
-Tavria State Agrotechnological University – Melitopol, Ukraine
+[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
 
 ### Head of the e-Learning Centre 	2011 – 2012
 
-Tavria State Agrotechnological University – Melitopol, Ukraine
+[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
 
 ### Deputy Executive Secretary of the Admission Commission 	2010 – 2012
 
-Tavria State Agrotechnological University – Melitopol, Ukraine
+[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
 
 ### Deputy Head of the Institute of Correspondence and Distance Education	2008 – 2011
 
-Tavria State Agrotechnological University – Melitopol, Ukraine
+[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
 
 ## Education
 
 ### Candidate of Sciences (Ph.D.) in Electrical Engineering JUL 2008
 
-Tavria State Agrotechnological University – Melitopol, Ukraine
+[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
 
 ### Master of Sciences in Agricultural Energy Engineering (with honors) JUN 2003
 
-Tavria State Agrotechnical Academy – Melitopol, Ukraine
+[Tavria State Agrotechnical Academy](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
 
 ### Bachelor of Sciences in Agricultural Energy Engineering (with honors) JUN 2001
 
-Tavria State Agrotechnical Academy – Melitopol, Ukraine
+[Tavria State Agrotechnical Academy](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
 
 ## Academic Awards
 
@@ -105,7 +105,7 @@ Tavria State Agrotechnical Academy – Melitopol, Ukraine
 
 ## Certifications
 
-### IELTS (International English Language Testing System) Academic – Band Score 6.5	MAY 2015
+### [Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"}IELTS (International English Language Testing System) Academic – Band Score 6.5	MAY 2015
 
 ### Coursera Course Certificates
 *	Data Science Specialization, TMQDZAB3V3ME	JULY 2016
