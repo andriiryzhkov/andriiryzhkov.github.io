@@ -7,6 +7,8 @@ modified: 2016-09-16T11:00:00-00:00
 
 {% include base_path %}
 
+{% include toc icon="file-text-o" title="CV" %}
+
 [Download CV in PDF]({{ site.url }}/cv-ryzhkov.pdf){:target="_blank" .btn .btn--success .btn--large}
 [LinkedIn Profile](https://linkedin.com/in/andriiryzhkov){:target="_blank" .btn .btn--success .btn--large}
 
