@@ -35,7 +35,14 @@ Communicate and work with clients and team members on analytics problem definiti
 
 ## Work Experience
 
-### Associate Professor, Head of the Office of International Relations JUL 2013 – PRESENT  
+### Associate Professor SEP 2016 – PRESENT  
+
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
+
+*	Research on machine learning methods for behavioral identification.  
+*	Taught courses: Web Programming; Databases.
+
+### Associate Professor, Head of the Office of International Relations JUL 2013 – AUG 2016
 
 *[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
