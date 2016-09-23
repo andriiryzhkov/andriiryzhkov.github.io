@@ -107,7 +107,8 @@ Communicate and work with clients and team members on analytics problem definiti
 
 ## Certifications
 
-### [IELTS (International English Language Testing System)](https://www.ielts.org/){:target="_blank"} Academic – Band Score 6.5	MAY 2015
+### IELTS (International English Language Testing System)
+* [IELTS Academic](https://www.ielts.org/){:target="_blank"} – Band Score 6.5	MAY 2015
 
 ### Coursera Course Certificates
 *	Data Science Specialization, [TMQDZAB3V3ME](https://www.coursera.org/account/accomplishments/specialization/TMQDZAB3V3ME){:target="_blank"}	JULY 2016
