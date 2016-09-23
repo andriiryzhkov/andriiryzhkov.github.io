@@ -12,3 +12,5 @@ header:
   caption: "Hi! I’m Andrii Ryzhkov"
 excerpt: "I am a <strong>Data Scientist</strong>"
 ---
+
+{% include base_path %}
