@@ -14,3 +14,5 @@ excerpt: "I am a <strong>Data Scientist</strong>"
 ---
 
 {% include base_path %}
+
+Welcome to my web site.
