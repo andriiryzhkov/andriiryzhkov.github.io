@@ -62,7 +62,7 @@ Communicate and work with clients and team members on analytics problem definiti
 
 ### Lecture (part-time) JUL 2003 – NOV 2008
 
-Tavria College of Computer Technologies – Melitopol, Ukraine
+*Tavria College of Computer Technologies – Melitopol, Ukraine*
 
 *	Taught courses: Software Engineering; Design of Automated Information Systems; Computers and Microprocessor Systems.
 
@@ -70,33 +70,33 @@ Tavria College of Computer Technologies – Melitopol, Ukraine
 
 ### Head of the Office of International Relations 2013 – 2016
 
-[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 ### Head of the e-Learning Centre 	2011 – 2012
 
-[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 ### Deputy Executive Secretary of the Admission Commission 	2010 – 2012
 
-[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 ### Deputy Head of the Institute of Correspondence and Distance Education	2008 – 2011
 
-[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 ## Education
 
 ### Candidate of Sciences (Ph.D.) in Electrical Engineering JUL 2008
 
-[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
+*[Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 ### Master of Sciences in Agricultural Energy Engineering (with honors) JUN 2003
 
-[Tavria State Agrotechnical Academy](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
+*[Tavria State Agrotechnical Academy](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 ### Bachelor of Sciences in Agricultural Energy Engineering (with honors) JUN 2001
 
-[Tavria State Agrotechnical Academy](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine
+*[Tavria State Agrotechnical Academy](http://www.tsatu.edu.ua/){:target="_blank"} – Melitopol, Ukraine*
 
 ## Academic Awards
 
@@ -105,23 +105,23 @@ Tavria College of Computer Technologies – Melitopol, Ukraine
 
 ## Certifications
 
-### [Tavria State Agrotechnological University](http://www.tsatu.edu.ua/){:target="_blank"}IELTS (International English Language Testing System) Academic – Band Score 6.5	MAY 2015
+### [IELTS (International English Language Testing System)](https://www.ielts.org/){:target="_blank"} Academic – Band Score 6.5	MAY 2015
 
 ### Coursera Course Certificates
-*	Data Science Specialization, TMQDZAB3V3ME	JULY 2016
-  -	The Data Scientist’s Toolbox, U47DVZAM9WXN	FEB 2016
-  -	R Programming, VEEULVSK6XMA	FEB 2016
-  -	Getting and Cleaning Data, AKL9QDHK3PVC	MAR 2016
-  -	Exploratory Data Analysis, GB8RN2F6CTFK	MAR 2016
-  -	Reproducible Research, MB84LPZHU8VK	MAR 2016
-  -	Statistical Inference, MXDPRK6RNUKV	APR 2016
-  -	Regression Models, V4BKCAENXETP	MAY 2016
-  -	Practical Machine Learning, X693PP7TFJGK	MAY 2016
-  -	Developing Data Products, 7T567GHHA5KZ	MAY 2016
-  -	Data Science Capstone, 3GY9YA3YZNN7	JULY 2016
+*	Data Science Specialization, [TMQDZAB3V3ME](https://www.coursera.org/account/accomplishments/specialization/TMQDZAB3V3ME){:target="_blank"}	JULY 2016
+  -	The Data Scientist’s Toolbox, [U47DVZAM9WXN](https://www.coursera.org/account/accomplishments/certificate/U47DVZAM9WXN){:target="_blank"}	FEB 2016
+  -	R Programming, [VEEULVSK6XMA](https://www.coursera.org/account/accomplishments/certificate/VEEULVSK6XMA){:target="_blank"}	FEB 2016
+  -	Getting and Cleaning Data, [AKL9QDHK3PVC](https://www.coursera.org/account/accomplishments/certificate/AKL9QDHK3PVC){:target="_blank"}	MAR 2016
+  -	Exploratory Data Analysis, [GB8RN2F6CTFK](https://www.coursera.org/account/accomplishments/certificate/GB8RN2F6CTFK){:target="_blank"}	MAR 2016
+  -	Reproducible Research, [MB84LPZHU8VK](https://www.coursera.org/account/accomplishments/certificate/MB84LPZHU8VK){:target="_blank"}	MAR 2016
+  -	Statistical Inference, [MXDPRK6RNUKV](https://www.coursera.org/account/accomplishments/certificate/MXDPRK6RNUKV){:target="_blank"}	APR 2016
+  -	Regression Models, [V4BKCAENXETP](https://www.coursera.org/account/accomplishments/certificate/V4BKCAENXETP){:target="_blank"}	MAY 2016
+  -	Practical Machine Learning, [X693PP7TFJGK](https://www.coursera.org/account/accomplishments/certificate/X693PP7TFJGK){:target="_blank"}	MAY 2016
+  -	Developing Data Products, [7T567GHHA5KZ](https://www.coursera.org/account/accomplishments/certificate/7T567GHHA5KZ){:target="_blank"}	MAY 2016
+  -	Data Science Capstone, [3GY9YA3YZNN7](https://www.coursera.org/account/accomplishments/certificate/3GY9YA3YZNN7){:target="_blank"}	JULY 2016
 *	Machine Learning Specialization
-  -	Machine Learning Foundations: A Case Study Approach, 7EG2323Y4QKK	MAR 2016
-  -	Machine Learning: Regression, LQJU8M8RXLCR	APR 2016
+  -	Machine Learning Foundations: A Case Study Approach, [7EG2323Y4QKK](https://www.coursera.org/account/accomplishments/certificate/7EG2323Y4QKK){:target="_blank"}	MAR 2016
+  -	Machine Learning: Regression, [LQJU8M8RXLCR](https://www.coursera.org/account/accomplishments/certificate/LQJU8M8RXLCR){:target="_blank"}	APR 2016
 
 ## Publications
 
