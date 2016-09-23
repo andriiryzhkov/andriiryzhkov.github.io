@@ -3,6 +3,8 @@ permalink: /cv/
 title: "Curriculum vitæ"
 excerpt: "Andrii Ryzhkov Curriculum vitæ."
 modified: 2016-09-16T11:00:00-00:00
+kramdown:
+  toc_levels: 1
 ---
 
 {% include base_path %}
