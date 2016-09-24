@@ -13,20 +13,30 @@ modified: 2016-09-16T11:00:00-00:00
 
 ### Technical Expertise
 
-Feature Engineering, Multivariate Regression, Decision Trees, Random Forests, Support Vector Machines, Ensemble Models, Boosting, Bagging, Bootstrapping, Clustering Algorithms, Map Reduce.  
-
-### Managerial Expertise
-
-Communicate and work with clients and team members on analytics problem definition, models, performance metrics and implementation. Lead development teams.
+* Feature Engineering
+* Multivariate Regression
+* Decision Trees
+* Random Forests
+* Support Vector Machines
+* Ensemble Models
+* Boosting
+* Bagging
+* Bootstrapping
+* Time Series Analysis
+* Map Reduce
 
 ### Software Engineering  
 
-**Core**: Python, R, Java, C/C++  
-**Distributed**: Hadoop, Spark  
-**Machine Learning**: Scikit-leam, Numpy, Scipy, Pandas, StatsModels, Seaborn
-**Interface**: HTML, CSS, PHP, JavaScript, Node.js, AngularJS, Django
-**Server**: AWS (EC2, S3, RDS, Route 53), OpenShift, Apache HTTP  
-**Database**: SQL (MySQL), NoSQL (MongoDB)
+* **Core**: R, Python, Java, C/C++
+* **Distributed**: Spark, Hadoop
+* **Machine Learning**: R, Scikit-leam, Numpy, Scipy, Pandas, StatsModels, Seaborn
+* **Interface**: HTML, CSS, JavaScript, Node.js, PHP, AngularJS, Django
+* **Server**: AWS (EC2, S3, RDS, Route 53), OpenShift, Apache HTTP
+* **Database**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+
+### Managerial Expertise
+
+* Communicate and work with clients and team members on analytics problem definition, models, performance metrics and implementation. Lead development teams.
 
 ## Work Experience
 
@@ -36,6 +46,12 @@ Communicate and work with clients and team members on analytics problem definiti
 
 *	Research on machine learning methods for behavioral identification.  
 *	Taught courses: Web Programming; Databases.
+
+### Data Scientist SEP 2016 – PRESENT
+
+*[TenViz LLC](http://www.tenviz.com/){:target="_blank"} – New York, USA*
+
+*	Developing advanced mathematical and visual tools for financial analytics.
 
 ### Associate Professor, Head of the Office of International Relations JUL 2013 – AUG 2016
 
