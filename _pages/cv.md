@@ -134,19 +134,19 @@ modified: 2016-09-16T11:00:00-00:00
 
 ### Coursera Course Certificates
 *	Data Science Specialization, [TMQDZAB3V3ME](https://www.coursera.org/account/accomplishments/specialization/TMQDZAB3V3ME){:target="_blank"}	JULY 2016
-  -	The Data Scientist’s Toolbox, [U47DVZAM9WXN](https://www.coursera.org/account/accomplishments/certificate/U47DVZAM9WXN){:target="_blank"}	FEB 2016
-  -	R Programming, [VEEULVSK6XMA](https://www.coursera.org/account/accomplishments/certificate/VEEULVSK6XMA){:target="_blank"}	FEB 2016
-  -	Getting and Cleaning Data, [AKL9QDHK3PVC](https://www.coursera.org/account/accomplishments/certificate/AKL9QDHK3PVC){:target="_blank"}	MAR 2016
-  -	Exploratory Data Analysis, [GB8RN2F6CTFK](https://www.coursera.org/account/accomplishments/certificate/GB8RN2F6CTFK){:target="_blank"}	MAR 2016
-  -	Reproducible Research, [MB84LPZHU8VK](https://www.coursera.org/account/accomplishments/certificate/MB84LPZHU8VK){:target="_blank"}	MAR 2016
-  -	Statistical Inference, [MXDPRK6RNUKV](https://www.coursera.org/account/accomplishments/certificate/MXDPRK6RNUKV){:target="_blank"}	APR 2016
-  -	Regression Models, [V4BKCAENXETP](https://www.coursera.org/account/accomplishments/certificate/V4BKCAENXETP){:target="_blank"}	MAY 2016
-  -	Practical Machine Learning, [X693PP7TFJGK](https://www.coursera.org/account/accomplishments/certificate/X693PP7TFJGK){:target="_blank"}	MAY 2016
-  -	Developing Data Products, [7T567GHHA5KZ](https://www.coursera.org/account/accomplishments/certificate/7T567GHHA5KZ){:target="_blank"}	MAY 2016
-  -	Data Science Capstone, [3GY9YA3YZNN7](https://www.coursera.org/account/accomplishments/certificate/3GY9YA3YZNN7){:target="_blank"}	JULY 2016
+    -	The Data Scientist’s Toolbox, [U47DVZAM9WXN](https://www.coursera.org/account/accomplishments/certificate/U47DVZAM9WXN){:target="_blank"}	FEB 2016
+    -	R Programming, [VEEULVSK6XMA](https://www.coursera.org/account/accomplishments/certificate/VEEULVSK6XMA){:target="_blank"}	FEB 2016
+    -	Getting and Cleaning Data, [AKL9QDHK3PVC](https://www.coursera.org/account/accomplishments/certificate/AKL9QDHK3PVC){:target="_blank"}	MAR 2016
+    -	Exploratory Data Analysis, [GB8RN2F6CTFK](https://www.coursera.org/account/accomplishments/certificate/GB8RN2F6CTFK){:target="_blank"}	MAR 2016
+    -	Reproducible Research, [MB84LPZHU8VK](https://www.coursera.org/account/accomplishments/certificate/MB84LPZHU8VK){:target="_blank"}	MAR 2016
+    -	Statistical Inference, [MXDPRK6RNUKV](https://www.coursera.org/account/accomplishments/certificate/MXDPRK6RNUKV){:target="_blank"}	APR 2016
+    -	Regression Models, [V4BKCAENXETP](https://www.coursera.org/account/accomplishments/certificate/V4BKCAENXETP){:target="_blank"}	MAY 2016
+    -	Practical Machine Learning, [X693PP7TFJGK](https://www.coursera.org/account/accomplishments/certificate/X693PP7TFJGK){:target="_blank"}	MAY 2016
+    -	Developing Data Products, [7T567GHHA5KZ](https://www.coursera.org/account/accomplishments/certificate/7T567GHHA5KZ){:target="_blank"}	MAY 2016
+    -	Data Science Capstone, [3GY9YA3YZNN7](https://www.coursera.org/account/accomplishments/certificate/3GY9YA3YZNN7){:target="_blank"}	JULY 2016
 *	Machine Learning Specialization
-  -	Machine Learning Foundations: A Case Study Approach, [7EG2323Y4QKK](https://www.coursera.org/account/accomplishments/certificate/7EG2323Y4QKK){:target="_blank"}	MAR 2016
-  -	Machine Learning: Regression, [LQJU8M8RXLCR](https://www.coursera.org/account/accomplishments/certificate/LQJU8M8RXLCR){:target="_blank"}	APR 2016
+    -	Machine Learning Foundations: A Case Study Approach, [7EG2323Y4QKK](https://www.coursera.org/account/accomplishments/certificate/7EG2323Y4QKK){:target="_blank"}	MAR 2016
+    -	Machine Learning: Regression, [LQJU8M8RXLCR](https://www.coursera.org/account/accomplishments/certificate/LQJU8M8RXLCR){:target="_blank"}	APR 2016
 
 ## Publications
 
